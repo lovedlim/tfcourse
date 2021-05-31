@@ -4,7 +4,7 @@
 동영상 재생목록
 https://www.youtube.com/playlist?list=PLSlDi2AkDv82pFZvTKP10oUAXenBZwpl7
 
-index
+## 입문용 목차
 1.	텐서플로:	1.tensorflow.ipynb
 2.	시퀀셜 모델만들기: 2.sequential_model.ipynb
 3.	모델 컴파일:	3.model_compile.ipynb
