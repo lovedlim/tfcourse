@@ -11,7 +11,7 @@ https://www.youtube.com/playlist?list=PLSlDi2AkDv82pFZvTKP10oUAXenBZwpl7
 4.	훈련(학습):	4.training.ipynb
 5.	검증:	5.validation.ipynb
 6.	평가:	6.evaluate.ipynb
-7.	배치노말라이제이션 & 드롭아웃:	7.batch_normalization_and_dropout.ipynb
-8.	오버피팅과 언더피팅:	8.overfitting_and_underfitting.ipynb
-9.	조기종료:	9.early_stopping.ipynb
+7.	오버피팅과 언더피팅:	7.overfitting_and_underfitting.ipynb
+8.	조기종료:	8.early_stopping.ipynb
+9.	배치노말라이제이션 & 드롭아웃:	9.batch_normalization_and_dropout.ipynb
 10. 모델 저장 및 불러오기: 10.model_save_and_load.ipynb
