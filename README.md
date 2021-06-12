@@ -15,5 +15,6 @@ https://www.youtube.com/playlist?list=PLSlDi2AkDv82pFZvTKP10oUAXenBZwpl7
 8.	조기종료:	8.early_stopping.ipynb
 9.	배치노말라이제이션 & 드롭아웃:	9.batch_normalization_and_dropout.ipynb
 10. 모델 저장 및 불러오기: 10.model_save_and_load.ipynb
-11. 얼굴 감정 분석 데이터 불러오기 11-12.kaggle_face_emotion_baseline
-12. 얼굴 감정 분석 EDA 및 데이터전처리 11-12.kaggle_face_emotion_baseline
+11. 얼굴 감정 분석 데이터 불러오기 11-13.kaggle_face_emotion_baseline
+12. 얼굴 감정 분석 EDA 및 데이터전처리 11-13.kaggle_face_emotion_baseline
+13. 얼굴 감정 분석 베이스라인 모델 11-13.kaggle_face_emotion_baseline
