@@ -18,3 +18,4 @@ https://www.youtube.com/playlist?list=PLSlDi2AkDv82pFZvTKP10oUAXenBZwpl7
 11. 얼굴 감정 분석 데이터 불러오기 11-13.kaggle_face_emotion_baseline
 12. 얼굴 감정 분석 EDA 및 데이터전처리 11-13.kaggle_face_emotion_baseline
 13. 얼굴 감정 분석 베이스라인 모델 11-13.kaggle_face_emotion_baseline
+14. 합성곱 신경망 (CNN) 14_Convolutional_Neural_Network
